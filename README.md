@@ -34,3 +34,6 @@ Variables Each attribute is a potential risk factor. There are both demographic 
 14 Predict variable (desired target)
 
 15 10-year risk of coronary heart disease CHD(binary: “1”, means “Yes”, “0” means “No”) - DV
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sICAQO4aWf0FLTAChB7ltmeMh8IX3tcx#scrollTo=wMrqSom2zpho)
